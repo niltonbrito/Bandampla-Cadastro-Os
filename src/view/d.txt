@@ -1,0 +1,45 @@
+{
+  "abertura": "15/09/2015",
+  "situacao": "ATIVA",
+  "tipo": "FILIAL",
+  "nome": "REDE BRASILEIRA DE DIAGNOSTICOS SPE S.A.",
+  "fantasia": "REDE BRASILEIRA DE DIAGNOSTICOS - HEOM",
+  "porte": "DEMAIS",
+  "natureza_juridica": "205-4 - Sociedade Anônima Fechada",
+  "atividade_principal": [
+    {
+      "code": "86.40-2-04",
+      "text": "Serviços de tomografia"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "86.40-2-05",
+      "text": "Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia"
+    }
+  ],
+  "logradouro": "PRACA CONSELHEIRO JOAO ALFREDO",
+  "numero": "SN",
+  "municipio": "SALVADOR",
+  "bairro": "CAIXA D'AGUA",
+  "uf": "BA",
+  "cep": "40.320-350",
+  "email": "csc.fiscal@alliar.com",
+  "telefone": "(31) 3123-4700",
+  "data_situacao": "15/09/2015",
+  "cnpj": "21.164.511/0002-08",
+  "ultima_atualizacao": "2023-10-14T23:59:59.000Z",
+  "status": "OK",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "17959100.00",
+  "qsa": [],
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}
